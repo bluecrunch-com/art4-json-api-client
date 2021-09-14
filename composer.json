@@ -1,7 +1,7 @@
 {
-    "name": "bluecrunch-com/json-api-client",
+    "name": "bluecrunch-com/art4-json-api-client",
     "description": "JSON API client",
-    "homepage": "https://github.com/bluecrunch-com/json-api-client",
+    "homepage": "https://github.com/bluecrunch-com/art4-json-api-client",
     "keywords": ["json", "api", "json-api", "client", "reader", "validator", "parser"],
     "license": "GPL-3.0-or-later",
     "authors": [
